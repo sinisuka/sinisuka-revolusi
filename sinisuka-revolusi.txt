@@ -2,4 +2,5 @@
 -berruning 40km per m
 -html css
 -javascript
--backend
+-front end project 1 per m
+-backend progaming language
