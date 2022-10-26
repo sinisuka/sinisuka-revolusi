@@ -1,2 +1,5 @@
 -bangun jam 5 pagi
--berruning 
+-berruning 40km per m
+-html css
+-javascript
+-backend
